@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Consultar Oferta de empleo" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-22T07:53:20" hostname="LAPTOP-3I14U6IK" time="33.03">
+  <properties/>
+  <testcase name="consulta de Empleo" classname="Consultar Oferta de empleo" time="33.03"/>
+  <system-out><![CDATA[Main Tap: CDwindow-38C7B9AFC55A063CC36B5F5B052763D8
+-- handles ID: CDwindow-38C7B9AFC55A063CC36B5F5B052763D8
+-- handles ID: CDwindow-392778033BFDDC776656C05400290B8B
+Changing Tab -- 
+Analista de Pruebas Funcionales
+]]></system-out>
+  <system-err><![CDATA[jul 22, 2021 2:53:22 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 29297
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1626940405.345][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+jul 22, 2021 2:53:25 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: consulta de Empleo
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
